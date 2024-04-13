@@ -1,0 +1,25 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "Database Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafi1210/online-book-store-backend.git"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "Rafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafi1210/online-book-store-backend/issues"
+  },
+  "homepage": "https://github.com/Rafi1210/online-book-store-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
